@@ -27,5 +27,5 @@ The goal of this project is to leverage Power BI's capabilities to create inform
 - **Sales Analysis**: Visualizations depicting sales trends over time, by segment, and by product.
 - **Profit Analysis**: Visualizations showing profit distribution across segments and products.
 - **Geographical Analysis**: Maps showcasing the profit distribution across different countries.
-![Power BI Dashboard]()
+![Power BI Dashboard](https://github.com/Naiseenata/Data-Analysis-Powerbi/blob/main/Screenshot%20(214).png?raw=true)
 
